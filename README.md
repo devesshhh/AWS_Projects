@@ -1,4 +1,4 @@
-## 🔗 Additional Resources
+## 🔗 AWS Projects Folder
 
 All related documents, reports, and reference files for this AWS project are available in the Google Drive folder below:
 
